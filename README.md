@@ -17,3 +17,5 @@ The objective of this project where to:
 * The classifications used are: Bulkers, Car Carriers, Conatiner Ships, Cruise Ships, Recreational, Sailboats, and Tugs.
 * Weights were calcualted utilizing YOLOv5 train.py for 100 epochs, this number needs to be increased. These weights can be found in best.pt
 * YouTube videos were then fed into both SAHI and YOLOv5 detect.py image recognition. These downloaded videos can be found in the download folder. 
+
+# Products
