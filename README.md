@@ -1,6 +1,6 @@
 # Poseidon's Eye
-Ship Detection and Recognition Utilizing Web Camera Streams 
-Roboflow Custom Data Set: https://app.roboflow.com/ds/5qoAPGIHWQ?key=JRywu8UTxX
+* Ship Detection and Recognition Utilizing Web Camera Streams 
+* Roboflow Custom Data Set (will download as zip): https://app.roboflow.com/ds/5qoAPGIHWQ?key=JRywu8UTxX
 
 # Objectives
 The objective of this project where to:
